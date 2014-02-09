@@ -1,7 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hi,
-  
-  This is a work in progress. Whatch this space."
+  redirect_to "/index.html"
 end
