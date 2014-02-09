@@ -5,7 +5,8 @@
 	symlinks = false
 	ignorecase = true
 	hideDotFiles = dotGitOnly
+	config.serve_static_assets = true
 [remote "origin"]
-	url = c:/temp/test-ruby-app
+	url = c:/udaysagarn
 	fetch = +refs/*:refs/*
 	mirror = true
